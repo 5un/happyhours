@@ -1,0 +1,257 @@
+[
+
+{ 
+	"name":"amBar",
+	"lat":"13.743960", 
+	"lon":"100.558832",
+	"pic":"0001.jpg",
+	"address": "Soi 15",
+	"happyHours": [
+		{
+			"startTime":"16:00:00",
+			"endTime":"21:00:00",
+			"daysOfWeek":["1", "2", "3", "4", "5","6", "7"],
+			"type":"b1g1",
+			"product":"Barcadi Breezer and Vodka Cruiser"
+		}
+	]
+},
+
+{
+	"name":"Bawarchi",
+	"lat":"13.744836", 
+	"lon":"100.541151",
+	"pic":"0002.jpg",
+	"address":"Soi 11",
+	"happyHours": [
+		{
+			"startTime":"17:00:00",
+			"endTime":"19:00:00",
+			"daysOfWeek":["1", "2", "3", "4", "5","6", "7"],
+			"type":"b1g1",
+			"product": "finger foods"
+		}
+	]
+},
+
+{
+	"name":"Beer Vault",
+	"lat":"13.739332", 
+	"lon":"100.558515",
+	"pic":"0003.jpg",
+	"address":"Soi 15",
+	"happyHours": [
+		{
+			"startTime":"17:30:00",
+			"endTime":"21:30:00",
+			"daysOfWeek":["1", "2", "3", "4", "5","6", "7"],
+			"type":"b1g1",
+			"products":"all products"
+		}
+	]
+},
+
+{
+	"name": "Black Swan",
+	"lat":"13.727916",
+	"lon": "100.576460",
+	"pic":"0004.jpg",
+	"address": "Sukhumvit Rd near Soi 14",
+	"happyHours": [
+		{
+			"startTime":"16:00:00",
+			"endTime":"28:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"special_price",
+			"products":"Carlsberg, Heineken, Tiger pints, 100 baht"
+		}
+	]
+},
+
+{
+	"name": "Bradman’s Bistro",
+	"lat":"13.736636", 
+	"lon": "100.562837",
+	"pic":"0005.jpg",
+	"address": "Soi 23",
+	"happyHours": [
+		{
+			"startTime":"14:00:00",
+			"endTime":"19:00:00",
+			"daysOfWeek":["1","2","3","4","5"],
+			"type":"special_price",
+			"products":"local beers 69 baht"
+		}
+	]
+},
+
+{
+	"name": "Charlie Browns",
+	"address": "Soi 11",
+	"lat":"13.742115", 
+	"lon": "100.556033",
+	"pic":"0006.jpg",
+	"happyHours": [
+		{
+			"startTime":"18:00:00",
+			"endTime":"00:00:00",
+			"daysOfWeek":["3"],
+			"type":"special_price",
+			"products":"half price margaritas"
+		}
+	]
+},
+
+{
+	"name": "Chequers",
+	"address": "Soi 4",
+	"lat":"13.741031", 
+	"lon":"100.553054",
+	"pic":"0007.jpg",
+	"happyHours": [
+		{
+			"startTime":"16:00:00",
+			"endTime":"20:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"special_price",
+			"products":"local beers and house spirits 75 baht, wine 95 baht"
+		}
+	]
+},
+
+{
+	"name": "Christina's",
+	"address": "Soi 20",
+	"lat":"13.731538", 
+	"lon":"100.563841",
+	"pic":"0008.jpg",
+	"happyHours": [
+		{
+			"startTime":"16:00:00",
+			"endTime":"20:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"discount",
+			"products":"20% off all drinks"
+		}
+	]
+},
+
+{
+	"name": "Down Under Bar & Grill",
+	"address": "",
+	"lat":"13.741542", 
+	"lon":"100.555534",
+	"pic":"0009.jpg",
+	"happyHours": [
+		{
+			"startTime":"10:00:00",
+			"endTime":"19:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"special_price",
+			"products":"local beers 75 baht"
+		}
+	]
+},
+{
+	"name": "Firehouse",
+	"address": "Soi 11",
+	"lat":"13.745273", 
+	"lon":"100.556447",
+	"pic":"0010.jpg",
+	"happyHours": [
+		{
+			"startTime":"16:30:00",
+			"endTime":"20:30:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"b1g1",
+			"products":"draft beers and bar cocktails"
+		}
+	]
+},
+
+{
+	"name": "The Clubhouse",
+	"address": "Soi 23",
+	"happyHours": [
+		{
+			"startTime":"15:00:00",
+			"endTime":"21:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"discount",
+			"products":"20-33% off different drinks: local and imported beer"
+		}
+	]
+},
+
+{
+	"name": "The Sports Corner",
+	"address": "Soi 20",
+	"happyHours": [
+		{
+			"startTime":"16:00:00",
+			"endTime":"20:00:00",
+			"daysOfWeek":["1","2","3","4","5"],
+			"type":"special_price",
+			"products":"all local beers 65 baht"
+		},
+		{
+			"startTime":"17:00:00",
+			"endTime":"19:00:00",
+			"daysOfWeek":["6","7"],
+			"type":"special_price",
+			"products":"all local beers 65 baht"
+		}
+	]
+},
+
+{
+	"name": "V8 Diner",
+	"address": "Sukhumvit Road",
+	"happyHours": [
+		{
+			"startTime":"15:00:00",
+			"endTime":"18:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"special_price",
+			"products":"Carlsberg bottles 39 baht"
+		},
+		{
+			"startTime":"12:00:00",
+			"endTime":"21:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"special_price",
+			"products":"JW Black, Jack D, Bacardi, others for 69 baht; 4-8 AM, Carlsberg, JW Black, Jack D, Bacardi, others for 69 baht."
+		}
+	]
+},
+
+{
+	"name": "Via Vai",
+	"address": "Soi 8",
+	"happyHours": [
+		{
+			"startTime":"14:30:00",
+			"endTime":"19:00:00",
+			"daysOfWeek":["1","2","3","4","5","6", "7"],
+			"type":"b1g1",
+			"products":"beer or house wine"
+		}
+	]
+},
+
+{
+	"name": "Zest Bar, Westin Grande Hotel",
+	"address": "Soi 19",
+	"happyHours": [
+		{
+			"startTime":"18:00:00",
+			"endTime":"20:00:00",
+			"daysOfWeek":["6", "7"],
+			"type":"b1g1",
+			"products":"one get one free, selected beers, wines, spirits"
+		}
+	]
+}
+
+]
+	
